@@ -19,6 +19,7 @@ let reversedMessageTwo = messageTwo.split("").reverse("").join("");
 
 console.log(reversedMessageTwo);
 
+
 //3. Message 3: "!elpoep rehto morf tnereffid on era uoy ,elbuort evah uoy fI. lanoisseforp a ekil leef ot evah t'nod uoY"
 
 let messageThree = "!elpoep rehto morf tnereffid on era uoy ,elbuort evah uoy fI .lanoisseforp a ekil leef ot evah t'nod uoY";
@@ -27,6 +28,7 @@ let reversedMessageThree = messageThree.split("").reverse("").join("");
 
 console.log(reversedMessageThree);
 
+
 //4. Message 4: ".rettam llits yeht ,smargorp llams etirw ylno nac uoy fI .tnemom tcefrep eht rof tiaw t'noD .yadot trats tsuJ"
 
 let messageFour = ".rettam llits yeht ,smargorp llams etirw ylno nac uoy fI .tnemom tcefrep eht rof tiaw t'noD .yadot trats tsuJ";
@@ -34,6 +36,7 @@ let messageFour = ".rettam llits yeht ,smargorp llams etirw ylno nac uoy fI .tne
 let reversedMessageFour = messageFour.split("").reverse("").join("");
 
 console.log(reversedMessageFour);
+
 
 //Task 2: Write your own reverse messages
 
